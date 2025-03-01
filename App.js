@@ -20,3 +20,4 @@ export default function App() {
     </NavigationContainer>
   );
 }
+//https://drive.google.com/file/d/1BmwOCcC-d42ewb4ONGUK-IcYXPB42kPE/view?usp=sharing link clip
